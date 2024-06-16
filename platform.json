@@ -23,7 +23,7 @@
     "arduino": {
       "package": "framework-arduinoespressif32",
       "script": "builder/frameworks/arduino.py"
-    },
+    }
   },
   "packages": {
     "framework-arduinoespressif32": {
@@ -68,7 +68,7 @@
       "owner": "platformio",
       "version": "~1.23500.0"
     },
-      "tool-xtensa-esp-elf-gdb": {
+    "tool-xtensa-esp-elf-gdb": {
       "type": "debugger",
       "optional": true,
       "owner": "espressif",
