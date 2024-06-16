@@ -38,7 +38,7 @@
     },
     "framework-arduinoespressif32-libs": {
       "type": "framework",
-      "optional": true,
+      "optional": false,
       "owner": "cziter15",
       "version": "https://github.com/espressif/arduino-esp32/releases/download/3.0.1/esp32-arduino-libs-3.0.1.zip"
     },
