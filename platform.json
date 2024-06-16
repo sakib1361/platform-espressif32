@@ -24,10 +24,6 @@
       "package": "framework-arduinoespressif32",
       "script": "builder/frameworks/arduino.py"
     },
-    "espidf": {
-      "package": "framework-espidf",
-      "script": "builder/frameworks/espidf.py"
-    }
   },
   "packages": {
     "framework-arduinoespressif32": {
@@ -41,12 +37,6 @@
       "optional": false,
       "owner": "cziter15",
       "version": "https://github.com/espressif/arduino-esp32/releases/download/3.0.1/esp32-arduino-libs-3.0.1.zip"
-    },
-    "framework-espidf": {
-      "type": "framework",
-      "optional": true,
-      "owner": "cziter15",
-      "version": "https://github.com/tasmota/esp-idf/releases/download/v5.1.4.240602/esp-idf-v5.1.4.zip"
     },
     "toolchain-xtensa-esp32": {
       "type": "toolchain",
