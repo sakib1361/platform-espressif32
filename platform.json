@@ -29,13 +29,13 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "owner": "cziter15",
+      "owner": "arduino-esp32",
       "version": "https://github.com/espressif/arduino-esp32.git#3.0.1"
     },
     "framework-arduinoespressif32-libs": {
       "type": "framework",
       "optional": false,
-      "owner": "cziter15",
+      "owner": "arduino-esp32",
       "version": "https://github.com/espressif/arduino-esp32/releases/download/3.0.1/esp32-arduino-libs-3.0.1.zip"
     },
     "toolchain-xtensa-esp32": {
@@ -82,7 +82,7 @@
     },
     "tool-esptoolpy": {
       "type": "uploader",
-      "owner": "cziter15",
+      "owner": "tasmota",
       "version": "https://github.com/tasmota/esptool/releases/download/v4.7.3/esptool.zip"
     },
     "tool-dfuutil-arduino": {
@@ -99,7 +99,7 @@
     },
     "tool-mklittlefs": {
       "type": "uploader",
-      "owner": "cziter15",
+      "owner": "platformio",
       "version": "^3.2.0"
     },
     "tool-mkfatfs": {
@@ -131,8 +131,8 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "owner": "cziter15",
-      "version": "https://github.com/espressif/esp-idf/releases/download/v5.1.4/esp-idf-v5.1.4.zip"
+      "owner": "tasmota",
+      "version": "https://github.com/tasmota/esp-idf/releases/download/v5.1.4.240602/esp-idf-v5.1.4.zip"
     }
   }
 }
