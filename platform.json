@@ -82,7 +82,7 @@
     },
     "tool-esptoolpy": {
       "type": "uploader",
-      "owner": "tasmota",
+      "owner": "cziter15",
       "version": "https://github.com/tasmota/esptool/releases/download/v4.7.3/esptool.zip"
     },
     "tool-dfuutil-arduino": {
@@ -99,7 +99,7 @@
     },
     "tool-mklittlefs": {
       "type": "uploader",
-      "owner": "tasmota",
+      "owner": "cziter15",
       "version": "^3.2.0"
     },
     "tool-mkfatfs": {
@@ -132,7 +132,7 @@
       "type": "framework",
       "optional": true,
       "owner": "cziter15",
-      "version": "https://github.com/tasmota/esp-idf/releases/download/v5.1.4.240602/esp-idf-v5.1.4.zip"
+      "version": "https://github.com/espressif/esp-idf/releases/download/v5.1.4/esp-idf-v5.1.4.zip"
     }
   }
 }
