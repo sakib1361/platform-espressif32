@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/platformio/platform-espressif32.git"
   },
-  "version": "18.06.24",
+  "version": "24.06.18",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinoespressif32",
