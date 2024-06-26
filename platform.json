@@ -30,13 +30,13 @@
       "type": "framework",
       "optional": true,
       "owner": "arduino-esp32",
-      "version": "https://github.com/espressif/arduino-esp32.git#3.0.1"
+      "version": "https://github.com/espressif/arduino-esp32.git#3.0.2"
     },
     "framework-arduinoespressif32-libs": {
       "type": "framework",
       "optional": false,
       "owner": "arduino-esp32",
-      "version": "https://github.com/espressif/arduino-esp32/releases/download/3.0.1/esp32-arduino-libs-3.0.1.zip"
+      "version": "https://github.com/espressif/arduino-esp32/releases/download/3.0.2/esp32-arduino-libs-3.0.2.zip"
     },
     "toolchain-xtensa-esp32": {
       "type": "toolchain",
