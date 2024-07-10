@@ -83,7 +83,7 @@
     "tool-esptoolpy": {
       "type": "uploader",
       "owner": "espressif",
-      "version": "https://github.com/espressif/esptool/releases/download/v4.7.0/esptool-v4.7.0-win64.zip"
+      "version": "https://github.com/espressif/esptool.git"
     },
     "tool-dfuutil-arduino": {
       "type": "uploader",
